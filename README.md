@@ -6,3 +6,5 @@ The dataset simulates realistic fraud patterns such as:
 - Reuse of promo codes from newly created accounts
 
 This project demonstrates how to analyze, engineer features, and build a predictive model to classify fraudulent transactions while handling the challenges of class imbalance and noisy behavior data.
+
+link to dataset: https://www.kaggle.com/datasets/umuttuygurr/e-commerce-fraud-detection-dataset?resource=download
